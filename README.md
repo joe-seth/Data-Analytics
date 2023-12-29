@@ -36,7 +36,7 @@
   <td><a href ="">View Project</a></td>
   </tr>
   <tr>
-  <td>02</td>
+  <td>02</td> 
   <td><a href = ""></a></td>
   <td></td>
   <td></td>
